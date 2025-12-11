@@ -18,7 +18,7 @@ cd felix-contracts
 ## 2. Fetch This PoC Test File into the Felix Repo
 ``` 
 curl -o test/ShutdownOracleFailureBypass.t.sol \
-https://raw.githubusercontent.com/DarthXyler/felix-poc/main/ShutdownOracleFailureBypass.t.sol
+  https://raw.githubusercontent.com/DarthXyler/felix-poc/main/test/ShutdownOracleFailureBypass.t.sol
 ``` 
 This will place the PoC test inside the Felix test suite.
 
